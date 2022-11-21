@@ -15,7 +15,7 @@
 
 8. Create a database with name osrs_db
 
-6. Import osrs_db.sql file(given inside the zip package in SQL file folder)
+6. Import osrs_db.sql file
 
 7.Run the script http:/osrs
 **LOGIN DETAILS** 
